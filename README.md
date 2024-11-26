@@ -13,3 +13,8 @@ Make sure to add and push the pkl or text file of your scraped html (this is spe
 * (Question 6) Histogram shown with appropriate labelling: 1 pt
 * (Question 7) Histogram shown with appropriate labelling: 1 pt
 * (Question 8) Thoughtful answer provided: 1 pt
+
+
+### Activating the virtual environment
+py -m venv .venv
+.venv\Scripts\activate
